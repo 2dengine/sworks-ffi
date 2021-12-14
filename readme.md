@@ -2,8 +2,9 @@
 This is a cross-platform LuaJIT/FFI wrapper for Steamworks v1.51.
 The library provides easy and simple Steamworks integration,
 using the original redistributable binaries provided by Valve.
-The full documentation is available at:
-https://2dengine.com/?p=sworks
+
+# Documentation
+The full documentation is available at: https://2dengine.com/?p=sworks
 
 # Installation
 1. Download the correct version of the SDK from the Steamworks partner site.
