@@ -334,9 +334,9 @@ end
 local queries =
 {
   popular = 0,
-  recent = 1,
   friends = 5,
   unrated = 8,
+  recent = 19,
 }
 
 --- Searches for user-generated content by a specific user or by filter.

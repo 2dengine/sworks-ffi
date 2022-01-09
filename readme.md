@@ -1,5 +1,5 @@
 # Steamworks for Lua/FFI
-This is a cross-platform LuaJIT/FFI wrapper for Steamworks v1.51.
+This is a cross-platform LuaJIT/FFI wrapper for Steamworks v1.53a.
 The library provides easy and simple Steamworks integration,
 using the original redistributable binaries provided by Valve.
 
